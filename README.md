@@ -2,12 +2,8 @@
 
 A machine learning-based web application to predict dengue cases using environmental factors such as rainfall and humidity.
 
----
-
 ## Live Demo
  https://epidemic-prediction-using-environmental-factors-3wtnug6t8xzqrj.streamlit.app/
-
----
 
 ## Features
 
@@ -18,8 +14,6 @@ A machine learning-based web application to predict dengue cases using environme
 - Prediction history tracking
 - Download report (CSV)
 
----
-
 ## Model Details
 
 - Algorithm: Linear Regression
@@ -27,16 +21,12 @@ A machine learning-based web application to predict dengue cases using environme
 - Target: Dengue Cases
 - Performance: R² Score ≈ 0.99
 
----
-
 ## Dataset
 
 Sample dataset used:
 - Rainfall (mm)
 - Humidity (%)
 - Dengue Cases
-
----
 
 ## Technologies Used
 
@@ -46,8 +36,6 @@ Sample dataset used:
 - Matplotlib
 - Seaborn
 - Scikit-learn
-
----
 
 ## How to Run Locally
 
